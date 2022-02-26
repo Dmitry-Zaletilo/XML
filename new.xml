@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
+<root>
+    <name>Самсонов Дмитрий Васильевич</name>
+    <age>29</age>
+    <pet>0</pet>
+    <salary>1000usd</salary>
+</root>
